@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyppsk)](https://github.com/yyppsk/github-readme-stats)
+ [![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyppsk&show_icons=true&theme=gruvbox)](https://github.com/yyppsk/github-readme-stats)
 
 
 </details>
