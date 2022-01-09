@@ -58,7 +58,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Pranjal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yyppsk&show_icons=true&hide_border=true" />
+ [![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyppsk)](https://github.com/yyppsk/github-readme-stats)
+
 
 </details>
 
