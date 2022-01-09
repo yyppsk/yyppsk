@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yyppsk
 - 👀 I’m interested in singing, coding and designing.   
-- 🌱 I’m currently learning C and CSE.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++ and Cloud Technoligies.
+- 📫 How to reach me ... Twitter - @yyppsk Stackoverflow - @yyppsk
 
 <!---
 yyppsk/yyppsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
