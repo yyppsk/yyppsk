@@ -3,11 +3,9 @@
 
 ## CSE UNDERGRAD WORKING ON IDEAS!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Looking for constant learning platforms.
+- 🌱 Working for Enviornment!
+- ⚡ Ideas! Ideas! Ideas! Constant Learner.
 
 ### Connect with me:
 
@@ -21,11 +19,11 @@
 
 ### Languages :
 
-
-<img align="right" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="right" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="right" alt="Python" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
 <img align="right" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="right" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="right" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+
 
 <br />
 <br />
