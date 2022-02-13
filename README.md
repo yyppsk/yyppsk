@@ -21,6 +21,7 @@
 
 <img align="right" alt="Python" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
 <img align="right" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="right" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="right" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="right" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
