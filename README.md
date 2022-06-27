@@ -1,6 +1,6 @@
 ## Namaste! I am Pranjal, It's pleasure to see you over my profile!👋 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
-
+<a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
 ## CSE UNDERGRAD WORKING ON IDEAS!
 
 - 🔭 Looking for constant learning platforms.
