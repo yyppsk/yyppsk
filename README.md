@@ -1,8 +1,8 @@
 ## Namaste! I am Pranjal, It's pleasure to see you over my profile!👋 
-![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
+[![@yyppsk's Holopin board](https://holopin.io/api/user/board?user=yyppsk)](https://holopin.io/@yyppsk)
 <a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
 ## CSE UNDERGRAD WORKING ON IDEAS!
-
+![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
 - 🔭 Looking for constant learning platforms.
 - 🌱 Working for Enviornment!
 - ⚡ Ideas! Ideas! Ideas! Constant Learner.
@@ -42,7 +42,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
