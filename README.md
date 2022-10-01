@@ -1,6 +1,10 @@
 ## Namaste! I am Pranjal, It's pleasure to see you over my profile!👋 
-[![@yyppsk's Holopin board](https://holopin.io/api/user/board?user=yyppsk)](https://holopin.io/@yyppsk)
+
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p>
+
 <a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
+
+
 ## CSE UNDERGRAD WORKING ON IDEAS!
 ![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
 - 🔭 Looking for constant learning platforms.
@@ -25,41 +29,31 @@
 <img align="right" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="right" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
-
 <br />
 <br />
 
-### Technologies and tools :
-<img align="right" alt="Node.js" width="51px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-<img align="right" alt="Git" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Git-logo-white.svg" />
-<img align="right" alt="Git" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg" />
-<img align="right" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/833ca8fcef36ee79a482b40d5b73b52922e80c83/381376_github_logo_icon.svg" />
-<img align="right" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="right" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/23cb2388edc0bfb5f9df014eb4f57e64cb464baa/terminal.svg" />
-<br />
-<br />
----
+<h3 align="left">Media House!</h3>
+<p align="left">
+<a href="https://codepen.io/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://dev.to/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://twitter.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16323135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16323135" height="30" width="40" /></a>
+<a href="https://instagram.com/1yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yyppsk" height="30" width="40" /></a>
+<a href="https://hashnode.com/@yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yyppsk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjalpratapsingh1/profile" height="30" width="40" /></a>
+</p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+[![@yyppsk's Holopin board](https://holopin.io/api/user/board?user=yyppsk)](https://holopin.io/@yyppsk)
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/20) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/23) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- [![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyppsk&show_icons=true&theme=gruvbox)](https://github.com/yyppsk/github-readme-stats)
+<p><img align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyppsk&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="yyppsk" /></p>
 
 
-</details>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&&theme=midnight-purple&show_icons=true&locale=en" alt="yyppsk" /></p>
+
 
 [website]: https://creationist.codes
 [twitter]: https://twitter.com/yyppsk
