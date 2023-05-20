@@ -13,7 +13,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Yyppsk | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/640px-Twitter-logo.svg.png" />][twitter]
 [<img align="left" alt="Yyppsk | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />][linkedin]
 [<img align="left" alt="Yyppsk | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_new.svg/640px-Instagram_new.svg.png" />][instagram]
 [<img align="right" alt="Yyppsk | StackOverflow" width="120px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/7a955123646d89561d1a9efb8fb2b445f56bbe8b/logo-meta.svg" />][stackoverflow]
@@ -36,7 +35,7 @@
 <p align="left">
 <a href="https://codepen.io/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yyppsk" height="30" width="40" /></a>
 <a href="https://dev.to/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://twitter.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyppsk" height="30" width="40" /></a>
+<a href="https://twitter.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyppsk" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yyppsk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16323135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16323135" height="30" width="40" /></a>
 <a href="https://instagram.com/1yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yyppsk" height="30" width="40" /></a>
