@@ -7,9 +7,8 @@
 
 ## CSE UNDERGRAD WORKING ON IDEAS!
 ![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
-- 🔭 Looking for constant learning platforms.
-- 🌱 Working for Enviornment!
-- ⚡ Ideas! Ideas! Ideas! Constant Learner.
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark)](https://roadmap.sh)
 
 ### Connect with me:
 
