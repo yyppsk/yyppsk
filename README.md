@@ -8,7 +8,7 @@
 ## CSE UNDERGRAD WORKING ON IDEAS!
 ![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
 
-[<img src="https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="500">](https://roadmap.sh)
+[<img src="https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="450">](https://roadmap.sh)
 
 
 ### Connect with me:
