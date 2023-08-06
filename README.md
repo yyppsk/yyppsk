@@ -1,4 +1,4 @@
-## Namaste! I am Pranjal, It's pleasure to see you over my profile!👋 
+## Namaste! I am Pranjal, It's a pleasure to see you over my profile!👋 
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p>
 
@@ -8,7 +8,11 @@
 ## CSE UNDERGRAD WORKING ON IDEAS!
 ![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark)](https://roadmap.sh)
+<div width="50%">
+  
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark)](https://roadmap.sh)
+  
+</div>
 
 ### Connect with me:
 
