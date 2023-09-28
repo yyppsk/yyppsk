@@ -1,6 +1,7 @@
 ## Namaste! I am Pranjal, It's a pleasure to see you over my profile!👋 
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p>
+<!-- <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p> -->
+<p><img align="center" width="100%" src="https://streak-stats.demolab.com?user=yyppsk&theme=terafox&hide_border=true&background=41%2C45002E%2C13001C)](https://git.io/streak-stats" alt="yyppsk" /></p>
 
 <a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
 
