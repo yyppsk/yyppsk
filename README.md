@@ -2,7 +2,7 @@
 
 <!-- <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p> -->
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=blue_navy" alt="yyppsk" /></p>
+<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="yyppsk" /></p>
 
 <a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
 
