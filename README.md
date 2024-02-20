@@ -4,7 +4,7 @@
 
 <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="yyppsk" /></p>
 
-<a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
+<a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/v2/OYg9Ax9EdCTqmjHiTIxDb.png?type=default&r=ir9" width="356" alt="Pranjal Pratap Singh's Dev Card"/></a>
 
 
 ## CSE UNDERGRAD WORKING ON IDEAS!
