@@ -32,7 +32,10 @@
 
 <br />
 <br />
+<hr>
+### Development Stack :
 
+[![Development Stack](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react,mongodb,mysql,postgres,tailwind,express,npm,nginx,gcp,git,cloudflare,aws)](https://skillicons.dev)
 <h3 align="left">Media House!</h3>
 <p align="left">
 <a href="https://codepen.io/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yyppsk" height="30" width="40" /></a>
@@ -43,10 +46,11 @@
 <a href="https://instagram.com/1yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yyppsk" height="30" width="40" /></a>
 <a href="https://hashnode.com/@yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yyppsk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yyppsk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yyppsk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjalpratapsingh1/profile" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 [![@yyppsk's Holopin board](https://holopin.io/api/user/board?user=yyppsk)](https://holopin.io/@yyppsk)
 
