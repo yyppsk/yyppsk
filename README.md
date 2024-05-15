@@ -36,7 +36,7 @@
 
 ### Development Stack :
 
-[![Development Stack](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react,mongodb,mysql,postgres,tailwind,express,npm,nginx,gcp,git,cloudflare,aws)](https://skillicons.dev)
+[![Development Stack](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react,mongodb,mysql,postgres,tailwind,postgresql,express,npm,nginx,gcp,git,cloudflare,aws)](https://skillicons.dev)
 <h3 align="left">Media House!</h3>
 <p align="left">
 <a href="https://codepen.io/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yyppsk" height="30" width="40" /></a>
