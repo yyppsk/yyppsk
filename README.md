@@ -53,7 +53,8 @@
 
 <hr>
 
-[![@yyppsk's Holopin board](https://holopin.io/api/user/board?user=yyppsk)](https://holopin.io/@yyppsk)
+[![An image of @yyppsk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yyppsk)](https://holopin.io/@yyppsk)
+
 
 <p><img align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyppsk&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="yyppsk" /></p>
 
