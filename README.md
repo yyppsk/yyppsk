@@ -4,17 +4,19 @@
 
 <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="yyppsk" /></p>
 
+
+
 <a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/v2/OYg9Ax9EdCTqmjHiTIxDb.png?type=default&r=ir9" width="356" alt="Pranjal Pratap Singh's Dev Card"/></a>
 
 
-## Software Engineer WORKING ON IDEAS!
-![Twitter Follow](https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge)
+### Software Engineer WORKING ON IDEAS!
+
+<img align="right" src="https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge">
 
 [<img src="https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="450">](https://roadmap.sh)
 
-
-### Connect with me:
-
+[<img src="https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh" width="62%">](https://roadmap.sh)
+## Connect With Me
 [<img align="left" alt="Yyppsk | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />][linkedin]
 [<img align="left" alt="Yyppsk | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_new.svg/640px-Instagram_new.svg.png" />][instagram]
 [<img align="right" alt="Yyppsk | StackOverflow" width="120px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/7a955123646d89561d1a9efb8fb2b445f56bbe8b/logo-meta.svg" />][stackoverflow]
