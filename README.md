@@ -15,7 +15,7 @@
 
 [<img src="https://api.roadmap.sh/v1-badge/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="450">](https://roadmap.sh)
 
-[<img src="https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh" width="56%">](https://roadmap.sh)
+[<img src="https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh" width="55%">](https://roadmap.sh)
 ## Connect With Me
 [<img align="left" alt="Yyppsk | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />][linkedin]
 [<img align="left" alt="Yyppsk | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_new.svg/640px-Instagram_new.svg.png" />][instagram]
