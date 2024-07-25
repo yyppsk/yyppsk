@@ -18,22 +18,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch Stats and Update README
+      - name: Fetch Stats and Save SVG
         run: |
           # Fetch the latest stats card as an SVG
           curl -o stats.svg https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh
           
-          # Replace the old SVG in README.md with the new one
-          sed -i.bak 's|![Codolio Stats](.*)|![Codolio Stats](https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh)|' README.md
-          
-          # Remove the backup file created by sed
-          rm README.md.bak
-
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md stats.svg
+          git add stats.svg
           git commit -m "Update stats card"
           
           # Pull latest changes from remote to avoid conflicts
