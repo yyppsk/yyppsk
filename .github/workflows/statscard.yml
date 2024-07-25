@@ -23,12 +23,14 @@ jobs:
           # Fetch the latest stats card as an SVG
           curl -o stats.svg https://omissions-spend-cage-surfaces.trycloudflare.com/api/codolio/pranjalsingh
           
-      - name: Commit changes
+      - name: Force Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add a timestamp to the commit message to ensure a new commit is created
           git add stats.svg
-          git commit -m "Update stats card"
+          git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')"
           
           # Pull latest changes from remote to avoid conflicts
           git pull --rebase
