@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # This will run the workflow every hour
+    - cron: "0 0 * * *" # This will run the workflow at 12 AM
 
 jobs:
   update-stats-card:
