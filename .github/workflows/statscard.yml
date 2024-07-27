@@ -21,7 +21,7 @@ jobs:
       - name: Fetch Stats and Save SVG
         run: |
           # Fetch the latest stats card as an SVG
-          curl -o stats.svg https://www.devstats.site/api/codolio/pranjalsingh
+          curl -o stats.svg https://www.dsastats.site/api/codolio/pranjalsingh
           
       - name: Force Commit changes
         run: |
