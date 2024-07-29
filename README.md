@@ -13,7 +13,7 @@
 
 <img align="" src="https://img.shields.io/twitter/follow/yyppsk?style=for-the-badge">
 
-[<img src="https://roadmap.sh/card/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="480">](https://roadmap.sh)
+[<img src="https://roadmap.sh/card/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="470">](https://roadmap.sh)
 
 [<img src="https://github.com/yyppsk/yyppsk/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
 ## Connect With Me
