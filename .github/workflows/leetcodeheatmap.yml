@@ -14,13 +14,17 @@ jobs:
 
       - name: Fetch Image from API
         run: |
-          curl -o leetcodeHeatmap.png https://www.dsastats.site/api/lcheatmap/pranjalpratapsingh1
+          curl -o leetcodeHeatmap.png --fail --silent --show-error https://www.dsastats.site/api/lcheatmap/pranjalpratapsingh1
+          if [ ! -s leetcodeHeatmap.png ]; then
+            echo "No image returned or link inaccessible. Aborting workflow."
+            exit 1
+          fi
 
       - name: Commit and Push Image
+        if: success()
         uses: EndBug/add-and-commit@v9
         with:
           author_name: 'GitHub Actions'
           author_email: 'actions@github.com'
           message: 'Update LeetCode Heatmap image'
           add: 'leetcodeHeatmap.png'
-
