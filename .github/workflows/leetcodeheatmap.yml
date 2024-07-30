@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  update-readme:
+  update-image:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,15 +16,11 @@ jobs:
         run: |
           curl -o leetcodeHeatmap.png https://www.dsastats.site/api/lcheatmap/pranjalpratapsingh1
 
-      - name: Update README.md
-        run: |
-          # Add or update the image in README.md
-          echo "![LeetCode Heatmap](leetcodeHeatmap.png)" > README.md
-
-      - name: Commit and Push Changes
+      - name: Commit and Push Image
         uses: EndBug/add-and-commit@v9
         with:
           author_name: 'GitHub Actions'
           author_email: 'actions@github.com'
-          message: 'Update README with new LeetCode Heatmap image'
-          add: 'README.md'
+          message: 'Update LeetCode Heatmap image'
+          add: 'leetcodeHeatmap.png'
+
