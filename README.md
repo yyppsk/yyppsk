@@ -53,6 +53,9 @@
 <a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjalpratapsingh1/profile" height="30" width="40" /></a>
 </p>
 
+### Leetcoding all day & Night.
+<hr>
+<a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="https://www.dsastats.site"><img src="https://github.com/yyppsk/yyppsk/blob/main/leetcodeHeatmap.png" width="100%"></a>
 <hr>
 
 [![An image of @yyppsk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yyppsk)](https://holopin.io/@yyppsk)
@@ -74,4 +77,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[<img src="https://github.com/yyppsk/yyppsk/blob/main/leetcodeHeatmap.png" width="100%">](https://www.dsastats.site)
