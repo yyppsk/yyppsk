@@ -1,1 +1,10 @@
-{"error":"The \"paths[0]\" argument must be of type string. Received an instance of Buffer"}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Error: ENOENT: no such file or directory, stat &#39;D:\Dev\Self Projects\NodeJS\devStats\routes\util\screenshot\upscaled_cubic_2024-07-30T10-37-03-625Z.png&#39;</pre>
+</body>
+</html>
