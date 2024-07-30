@@ -57,7 +57,7 @@
 
 ### Leetcoding all day & Night. 👨‍💻
 
-<a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="https://www.dsastats.site"><img src="https://github.com/yyppsk/yyppsk/blob/main/leetcodeHeatmap.png" width="100%"></a>
+<a href="https://www.dsastats.site/" target="https://www.dsastats.site"><img src="https://github.com/yyppsk/yyppsk/blob/main/leetcodeHeatmap.png" width="100%"></a>
 <hr>
 
 [![An image of @yyppsk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yyppsk)](https://holopin.io/@yyppsk)
