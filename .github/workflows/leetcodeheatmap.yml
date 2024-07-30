@@ -1,8 +1,8 @@
 name: leetcode heatmap by dsaStats.site
-
 on:
   schedule:
     - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   update-readme:
