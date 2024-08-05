@@ -1,7 +1,7 @@
 name: leetcode heatmap by dsaStats.site
 on:
   schedule:
-    - cron: "0 */4 * * *" # Runs every 4 Hours
+    - cron: "0 22 * * *" # Runs at 10 PM
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
