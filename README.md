@@ -27,6 +27,7 @@
 
 ### Languages :
 
+[<img src="https://raw.githubusercontent.com/yyppsk/yyppsk/main/yyppskcodesYT.png" alt="https://www.youtube.com/@yyppskcodes/" width="200">](https://www.youtube.com/@yyppskcodes/)
 <img align="right" alt="Python" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
 <img align="right" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="right" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
