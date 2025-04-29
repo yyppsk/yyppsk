@@ -1,36 +1,64 @@
-name: leetcode heatmap by dsaStats.site
+name: Update LeetCode Heatmap
 
 on:
+  # every day at 22:00 UTC, plus manual trigger
   schedule:
-    - cron: "0 22 * * *" # Runs at 10 PM UTC
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: '0 22 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-image:
+  update-heatmap:
     runs-on: ubuntu-latest
+    # allow up to 30 minutes for Cloudflare + CAPTCHA solve
+    timeout-minutes: 30
+
+    env:
+      # Puppeteer/stealth + recaptcha solver
+      LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+      TWO_CAPTCHA_KEY:   ${{ secrets.TWO_CAPTCHA_KEY }}
+      # pass into your script to bump page.goto / waitForNavigation
+      PUPPETEER_TIMEOUT: 120000
+
     steps:
-      - name: Checkout Repository
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Fetch Image from API
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Cache npm deps
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate & Upscale Heatmap
+        # assumes util/lcheatmap.js reads env.LEETCODE_SESSION, env.TWO_CAPTCHA_KEY,
+        # env.PUPPETEER_TIMEOUT and writes to ./leetcodeHeatmap.png
         run: |
-          curl -o leetcodeHeatmap.png --fail --silent --show-error https://www.dsastats.site/api/lcheatmap/pranjalpratapsingh1
+          node util/lcheatmap.js \
+            --username="${{ inputs.username || 'pranjalpratapsingh1' }}" \
+            --output="leetcodeHeatmap.png"
+        shell: bash
+
+      - name: Verify output
+        run: |
           if [ ! -s leetcodeHeatmap.png ]; then
-            echo "No image returned or link inaccessible. Aborting workflow."
+            echo "❌ Heatmap generation failed (empty or missing file)"
             exit 1
           fi
 
-      - name: Configure Git
+      - name: Commit & Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Pull Latest Changes
-        run: |
-          git pull --rebase origin main || true
-
-      - name: Commit and Push Image
-        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add leetcodeHeatmap.png
-          git commit -m "Update LeetCode Heatmap image" || echo "No changes to commit"
-          git push origin main
+          git diff --quiet && echo "↪ No changes to commit" || git commit -m "🔄 Update LeetCode Heatmap"
+          git push
