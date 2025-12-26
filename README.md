@@ -65,10 +65,10 @@
 [![An image of @yyppsk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yyppsk)](https://holopin.io/@yyppsk)
 
 
-<p><img align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyppsk&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="yyppsk" /></p>
+<!-- <p><img align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyppsk&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="yyppsk" /></p>
 
 
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&&theme=midnight-purple&show_icons=true&locale=en" alt="yyppsk" /></p>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&&theme=midnight-purple&show_icons=true&locale=en" alt="yyppsk" /></p> -->
 
 
 [website]: https://creationist.codes
