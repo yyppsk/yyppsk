@@ -2,7 +2,7 @@
 
 <!-- <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yyppsk&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p> -->
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="yyppsk" /></p>
+<!-- <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=yyppsk&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="yyppsk" /></p> -->
 
 
 
@@ -15,11 +15,7 @@
 
 [<img src="https://roadmap.sh/card/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="470">](https://roadmap.sh)
 
-[<img src="https://github.com/yyppsk/yyppsk/blob/main/stats.svg" width="55%">](https://www.dsastats.site)
-
 ## Connect With Me
-[<img align="left" alt="Yyppsk | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />][linkedin]
-[<img align="left" alt="Yyppsk | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_new.svg/640px-Instagram_new.svg.png" />][instagram]
 [<img align="right" alt="Yyppsk | StackOverflow" width="120px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/7a955123646d89561d1a9efb8fb2b445f56bbe8b/logo-meta.svg" />][stackoverflow]
 [<img align="right" alt="Yyppsk | DevTo" width="28px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/15f28401599196cfb8ecd66131de1e2923d50fb0/devto.svg" />][dev]
 
@@ -62,9 +58,6 @@
 <a href="https://www.dsastats.site/" target="https://www.dsastats.site"><img src="https://github.com/yyppsk/yyppsk/blob/main/leetcodeHeatmap.png" width="100%"></a>
 <hr>
 
-[![An image of @yyppsk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yyppsk)](https://holopin.io/@yyppsk)
-
-
 <!-- <p><img align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyppsk&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="yyppsk" /></p>
 
 
@@ -77,7 +70,4 @@
 [instagram]: https://instagram.com/yyppsk
 [dev]: https://dev.to/yyppsk
 [linkedin]: https://linkedin.com/in/yyppsk
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
