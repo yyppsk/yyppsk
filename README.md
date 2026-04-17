@@ -37,19 +37,22 @@
 ### Development Stack :
 
 [![Development Stack](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react,mongodb,mysql,postgres,tailwind,postgresql,express,npm,nginx,gcp,git,cloudflare,aws,wordpress,php)](https://skillicons.dev)
+
 <h3 align="left">Media House!</h3>
+
 <p align="left">
-<a href="https://codepen.io/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://dev.to/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://twitter.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyppsk" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16323135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16323135" height="30" width="40" /></a>
-<a href="https://instagram.com/1yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yyppsk" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yyppsk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yyppsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yyppsk" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranjalpratapsingh1/profile" height="30" width="40" /></a>
+<a href="https://codepen.io/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/16323135"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/1yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" /></a>
 </p>
+
 
 <hr>
 
