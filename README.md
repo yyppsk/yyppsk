@@ -23,20 +23,24 @@
 
 [<img src="https://roadmap.sh/card/wide/64ccef250d755ccbebda19df?variant=dark" alt="roadmap.sh" width="470">](https://roadmap.sh)
 
-## Connect With Me
+<h3 align="right">Dev Portals</h1>
+<hr>
+
 [<img align="right" alt="Yyppsk | StackOverflow" width="120px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/7a955123646d89561d1a9efb8fb2b445f56bbe8b/logo-meta.svg" />][stackoverflow]
 [<img align="right" alt="Yyppsk | DevTo" width="28px" src="https://raw.githubusercontent.com/yyppsk/yyppsk/15f28401599196cfb8ecd66131de1e2923d50fb0/devto.svg" />][dev]
 
 <br />
 
-### Languages :
+<h3 align="right">Languages </h1>
+<hr>
 
-[<img src="https://raw.githubusercontent.com/yyppsk/yyppsk/main/yyppskcodesYT.png" alt="https://www.youtube.com/@yyppskcodes/" width="200">](https://www.youtube.com/@yyppskcodes/)
-<img align="right" alt="Python" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
-<img align="right" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="right" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-<img align="right" alt="C" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="right" alt="C++" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="right" alt="Python" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
+<img align="right" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="right" alt="PHP" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+
+<!-- Fixed -->
+<img align="right" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="right" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
 <br />
 <br />
@@ -44,11 +48,12 @@
 
 ### Development Stack :
 
-[![Development Stack](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react,mongodb,mysql,postgres,tailwind,postgresql,express,npm,nginx,gcp,git,cloudflare,aws,wordpress,php)](https://skillicons.dev)
+[![Development Stack](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,postgres,tailwind,postgresql,express,npm,nginx,gcp,git,cloudflare,aws,wordpress,php)](https://skillicons.dev)
 
 <h3 align="left">Media House!</h3>
 
 <p align="left">
+
 <a href="https://codepen.io/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>&nbsp;&nbsp;
@@ -59,6 +64,8 @@
 <a href="https://www.hackerrank.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/yyppsk"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/pranjalpratapsingh1/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" /></a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" width="45">](https://www.youtube.com/@yyppskcodes/)
+
 </p>
 
 
